@@ -1,3 +1,7 @@
 default:
 	extension: .config
 	output: themes
+
+smooth:
+	extension: .config
+	output: themes
